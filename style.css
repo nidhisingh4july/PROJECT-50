@@ -1,0 +1,26 @@
+
+.grid img {
+    border:2px soild black;
+    border-radius:50px;
+}
+ 
+.orgami {
+    border: 50px;
+    background-color: violet;
+
+    width:30px;
+    font-family: Arial;
+}
+
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 50px;
+    font-family: Sans Unicode;
+    font-weight: 990;
+    color:peachpuff;
+}
+body{ 
+    background-color: pink;
+}
